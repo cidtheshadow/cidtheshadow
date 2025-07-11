@@ -40,14 +40,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/ShadCN-UI-2aa889?style=for-the-badge&logo=tailwindcss&logoColor=white" height="30"/>
 </p>
 
 ---
 
 ### 🔥 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cidtheshadow&show_icons=true&theme=radical" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cidtheshadow&layout=compact&theme=radical" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cidtheshadow&show_icons=true&theme=radical" alt="GitHub stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cidtheshadow&layout=compact&theme=radical" alt="Top languages" width="48%"/>
 </p>
 
 ---
@@ -76,4 +77,4 @@ I love talking about building, growing, and dreaming bigger. Feel free to drop a
 
 ---
 
-*“The dream isn’t to escape reality. The dream is to build one that doesn’t need escaping.”* 🖤  
+> *“The dream isn’t to escape reality. The dream is to build one that doesn’t need escaping.”* 🖤
