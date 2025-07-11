@@ -53,6 +53,16 @@
 
 ---
 
+### 👨‍💻 Competitive Programming
+
+<p align="left">
+  <a href="https://www.codechef.com/users/cidtheshadow" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-cidtheshadow-5b4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
+  </a>
+</p>
+
+---
+
 ### 🧩 Notable Projects
 | Project | Description |
 |--------|-------------|
