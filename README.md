@@ -2,11 +2,11 @@
 <h3 align="center">A passionate developer and cybersecurity enthusiast from India</h3>
 
 
-- 🔭 I’m currently working on **My Portfolio**
+- 🔭 I’m currently working on **Core Link**
 
 - 🌱 I’m currently learning **Networking and Basics of Cyber Security**
 
-- 👨‍💻 All of my projects are available at [work in progress..!!](work in progress..!!)
+- 👨‍💻 All of my projects are available at [tanushsingla@vercel.app](work in progress..!!)
 
 - 💬 Ask me about **nothing (kidding ask me anything)**
 
