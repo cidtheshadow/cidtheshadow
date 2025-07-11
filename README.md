@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Networking and Basics of Cyber Security**
 
-- 👨‍💻 All of my projects are available at <a href="tanushsingla@vercel.app"> Portfolio </a>
+- 👨‍💻 All of my projects are available at <a href="tanushsingla.vercel.app"> My Portfolio </a>
 
 - 💬 Ask me about **nothing (kidding ask me anything)**
 
