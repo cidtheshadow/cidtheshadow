@@ -1,9 +1,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cidtheshadow/cidtheshadow/main/art/header-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cidtheshadow/cidtheshadow/main/art/header-light.png">
-  <img alt="Logo for Tanush Singla" src="https://raw.githubusercontent.com/cidtheshadow/cidtheshadow/main/art/header-light.png" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/cidtheshadow/cidtheshadow@main/art/header-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/cidtheshadow/cidtheshadow@main/art/header-light.png">
+  <img alt="Logo for Tanush Singla" src="https://cdn.jsdelivr.net/gh/cidtheshadow/cidtheshadow@main/art/header-light.png" width="100%">
 </picture>
 
 <br>
@@ -41,7 +41,7 @@
 </td>
 <td width="35%" align="center">
 
-<img src="https://raw.githubusercontent.com/cidtheshadow/cidtheshadow/main/art/profile.png" width="220" style="border-radius: 50%;" />
+<img src="https://cdn.jsdelivr.net/gh/cidtheshadow/cidtheshadow@main/art/profile.png" width="220" style="border-radius: 50%;" />
 
 </td>
 </tr>
