@@ -1,4 +1,4 @@
-<div align="center">
+[[[<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cidtheshadow/cidtheshadow/main/assets/banner-dark.svg">
@@ -148,3 +148,4 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=A855F7&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=FFFFFF&animation=fadeIn" width="100%" />
 
 </div>
+](https://mikewall.dev/tools/github-banners)](https://mikewall.dev/tools/github-banners)](https://mikewall.dev/tools/github-banners)
