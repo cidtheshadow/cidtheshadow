@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/cidtheshadow/cidtheshadow@main/art/header-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/cidtheshadow/cidtheshadow@main/art/header-light.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/cidtheshadow/cidtheshadow/header-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/cidtheshadow/cidtheshadow/header-light.png">
   <img alt="Logo for Tanush Singla" src="https://cdn.jsdelivr.net/gh/cidtheshadow/cidtheshadow@main/art/header-light.png" width="100%">
 </picture>
 
