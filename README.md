@@ -41,7 +41,7 @@
 </td>
 <td width="35%" align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/cidtheshadow/cidtheshadow@main/art/profile.png" width="220" style="border-radius: 50%;" />
+<img src="https://cdn.jsdelivr.net/gh/cidtheshadow/cidtheshadow/uhfeuhbjde.jpeg" width="220" style="border-radius: 50%;" />
 
 </td>
 </tr>
