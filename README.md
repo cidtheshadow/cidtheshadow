@@ -1,9 +1,9 @@
-[[[<div align="center">
+<div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cidtheshadow/cidtheshadow/main/assets/banner-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cidtheshadow/cidtheshadow/main/assets/banner-light.svg">
-  <img alt="Banner" src="https://raw.githubusercontent.com/cidtheshadow/cidtheshadow/main/assets/banner-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cidtheshadow/cidtheshadow/main/art/header-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cidtheshadow/cidtheshadow/main/art/header-light.png">
+  <img alt="Logo for Tanush Singla" src="https://raw.githubusercontent.com/cidtheshadow/cidtheshadow/main/art/header-light.png" width="100%">
 </picture>
 
 <br>
@@ -41,7 +41,7 @@
 </td>
 <td width="35%" align="center">
 
-<img src="https://raw.githubusercontent.com/cidtheshadow/cidtheshadow/main/assets/profile.png" width="220" style="border-radius: 50%;" />
+<img src="https://raw.githubusercontent.com/cidtheshadow/cidtheshadow/main/art/profile.png" width="220" style="border-radius: 50%;" />
 
 </td>
 </tr>
@@ -78,11 +78,15 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/cidtheshadow/cidtheshadow/output/github-contribution-grid-snake-dark.svg" width="97%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cidtheshadow/cidtheshadow/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cidtheshadow/cidtheshadow/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/cidtheshadow/cidtheshadow/output/github-contribution-grid-snake.svg" width="97%" />
+</picture>
 
 <!--
   GitHub Action: generates the snake animation from your contribution graph.
-  Add this workflow at .github/workflows/snake.yml in your cidtheshadow/cidtheshadow repo:
+  File location in this repo: .github/workflows/snake.yml
 
   name: Generate Snake
   on:
@@ -92,10 +96,11 @@
     push:
       branches: [ main ]
 
+  permissions:
+    contents: write
+
   jobs:
     generate:
-      permissions:
-        contents: write
       runs-on: ubuntu-latest
       steps:
         - uses: Platane/snk@v3
@@ -148,4 +153,3 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=A855F7&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=FFFFFF&animation=fadeIn" width="100%" />
 
 </div>
-](https://mikewall.dev/tools/github-banners)](https://mikewall.dev/tools/github-banners)](https://mikewall.dev/tools/github-banners)
